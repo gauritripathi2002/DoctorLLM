@@ -1,4 +1,4 @@
-# DoctorLLM - A Conversational Medical AI
+# DoctorLLM - Conversational Medical AI 
 
 Welcome to the GitHub repository for DoctorGPT, a cutting-edge conversational AI developed by Gauri Tripathi and Sparsh Patel. DoctorGPT, fine-tuned on the Mistral model, is a virtual physician designed to provide accurate, nuanced, and respectful medical guidance.
 
