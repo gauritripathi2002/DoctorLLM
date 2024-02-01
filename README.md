@@ -45,9 +45,6 @@ GitHub: [gauritripathi2002](https://github.com/gauritripathi2002)
 
 DoctorGPT represents a significant step in the field of medical AI, offering users a novel way to seek medical advice virtually. It combines the latest advancements in AI and natural language processing to provide a helpful, user-friendly tool for medical inquiries.
 
-## Short Description
-
-DoctorLLM is a groundbreaking AI-powered virtual physician, fine-tuned by Gauri Tripathi on the Mistral model. This interactive AI, accessible through a Gradio web interface, is designed to provide accurate, nuanced medical advice, mimicking real-life doctor-patient conversations. It's a significant leap in conversational AI, specifically tailored for medical consultations.
 
 ---
 
