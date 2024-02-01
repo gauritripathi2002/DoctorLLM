@@ -4,7 +4,7 @@ Welcome to the GitHub repository for DoctorGPT, a cutting-edge conversational AI
 
 ## Project Overview
 
-DoctorGPT was created using the Mistral model, a variant of the OpenAI GPT model, specifically trained for generating conversational responses in a medical context. The model, fine-tuned with conversational dialogues between patients and doctors, aims to replicate a real-life medical consultation experience.
+DoctorLLM was created using the Mistral model, a variant of the OpenAI GPT model, specifically trained for generating conversational responses in a medical context. The model, fine-tuned with conversational dialogues between patients and doctors, aims to replicate a real-life medical consultation experience.
 
 ### Key Features:
 
